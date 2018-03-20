@@ -402,7 +402,7 @@ textarea {
 }
 
 a {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 strong,
@@ -549,8 +549,8 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-    box-shadow: inset 0 0 0 1px #ce1b28;
-    color: #ce1b28 !important;
+    box-shadow: inset 0 0 0 1px #26789b;
+    color: #26789b !important;
 }
 
 input[type="submit"]:hover:active,
@@ -567,7 +567,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
     box-shadow: none;
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: #ffffff !important;
 }
 
@@ -576,7 +576,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-    background-color: #e2212f;
+    background-color: #26789b;
     box-shadow: none;
 }
 
@@ -585,7 +585,7 @@ input[type="reset"].primary:hover:active,
 input[type="button"].primary:hover:active,
 button.primary:hover:active,
 .button.primary:hover:active {
-    background-color: #b71824;
+    background-color: #26789b;
 }
 
 /* Form */
@@ -769,8 +769,8 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 select {
@@ -795,15 +795,15 @@ input[type="radio"] + label:before {
 
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-    background-color: #ce1b28;
-    border-color: #ce1b28;
+    background-color: #26789b;
+    border-color: #26789b;
     color: #ffffff;
 }
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 ::-webkit-input-placeholder {
@@ -1414,7 +1414,7 @@ table.alt tbody tr td {
 }
 
 .testimonials .content .credit strong {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 /* Actions */
@@ -2749,7 +2749,7 @@ ul.icons li .icon:before {
 }
 
 #banner a {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #banner strong,
@@ -2794,8 +2794,8 @@ ul.icons li .icon:before {
 #banner input[type="button"]:hover,
 #banner button:hover,
 #banner .button:hover {
-    box-shadow: inset 0 0 0 1px #ce1b28;
-    color: #ce1b28 !important;
+    box-shadow: inset 0 0 0 1px #26789b;
+    color: #26789b !important;
 }
 
 #banner input[type="submit"]:hover:active,
@@ -2812,7 +2812,7 @@ ul.icons li .icon:before {
 #banner button.primary,
 #banner .button.primary {
     box-shadow: none;
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: #ffffff !important;
 }
 
@@ -2857,8 +2857,8 @@ ul.icons li .icon:before {
 #banner input[type="url"]:focus,
 #banner select:focus,
 #banner textarea:focus {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #banner select {
@@ -2883,15 +2883,15 @@ ul.icons li .icon:before {
 
 #banner input[type="checkbox"]:checked + label:before,
 #banner input[type="radio"]:checked + label:before {
-    background-color: #ce1b28;
-    border-color: #ce1b28;
+    background-color: #26789b;
+    border-color: #26789b;
     color: #ffffff;
 }
 
 #banner input[type="checkbox"]:focus + label:before,
 #banner input[type="radio"]:focus + label:before {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #banner ::-webkit-input-placeholder {
@@ -2949,7 +2949,7 @@ ul.icons li .icon:before {
 }
 
 #banner .testimonials .content .credit strong {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #banner > .inner {
@@ -3095,10 +3095,10 @@ body.is-preload #banner:before {
 /* CTA */
 
 #cta {
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed;
-    background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
+    background-image: linear-gradient(rgba(38, 120, 155, 0.25), rgba(38, 120, 155, 0.25)), url(../../images/cta01.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3177,7 +3177,7 @@ body.is-preload #banner:before {
 #cta .button.primary {
     box-shadow: none;
     background-color: #ffffff;
-    color: #ce1b28 !important;
+    color: #26789b !important;
 }
 
 #cta input[type="submit"].primary:hover,
@@ -3231,7 +3231,7 @@ body.is-preload #banner:before {
 
 #cta select option {
     color: rgba(255, 255, 255, 0.75);
-    background-color: #ce1b28;
+    background-color: #26789b;
 }
 
 #cta input[type="checkbox"] + label,
@@ -3249,7 +3249,7 @@ body.is-preload #banner:before {
 #cta input[type="radio"]:checked + label:before {
     background-color: #ffffff;
     border-color: #ffffff;
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #cta input[type="checkbox"]:focus + label:before,
@@ -3303,17 +3303,17 @@ body.is-preload #banner:before {
 }
 
 #cta .highlights .content {
-    background: #ce1b28;
+    background: #26789b;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025);
 }
 
 #cta .testimonials .content {
-    background: #ce1b28;
+    background: #26789b;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025);
 }
 
 #cta .testimonials .content .credit strong {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #cta .inner {
@@ -3342,7 +3342,7 @@ body.is-preload #banner:before {
 }
 
 #footer a {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #footer strong,
@@ -3387,8 +3387,8 @@ body.is-preload #banner:before {
 #footer input[type="button"]:hover,
 #footer button:hover,
 #footer .button:hover {
-    box-shadow: inset 0 0 0 1px #ce1b28;
-    color: #ce1b28 !important;
+    box-shadow: inset 0 0 0 1px #26789b;
+    color: #26789b !important;
 }
 
 #footer input[type="submit"]:hover:active,
@@ -3405,7 +3405,7 @@ body.is-preload #banner:before {
 #footer button.primary,
 #footer .button.primary {
     box-shadow: none;
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: #ffffff !important;
 }
 
@@ -3450,8 +3450,8 @@ body.is-preload #banner:before {
 #footer input[type="url"]:focus,
 #footer select:focus,
 #footer textarea:focus {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #footer select {
@@ -3476,15 +3476,15 @@ body.is-preload #banner:before {
 
 #footer input[type="checkbox"]:checked + label:before,
 #footer input[type="radio"]:checked + label:before {
-    background-color: #ce1b28;
-    border-color: #ce1b28;
+    background-color: #26789b;
+    border-color: #26789b;
     color: #ffffff;
 }
 
 #footer input[type="checkbox"]:focus + label:before,
 #footer input[type="radio"]:focus + label:before {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #footer ::-webkit-input-placeholder {
@@ -3542,7 +3542,7 @@ body.is-preload #banner:before {
 }
 
 #footer .testimonials .content .credit strong {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #footer a {
@@ -3551,7 +3551,7 @@ body.is-preload #banner:before {
 }
 
 #footer a:hover {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #footer .content {
@@ -3789,7 +3789,7 @@ body:before {
 }
 
 #heading a {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #heading strong,
@@ -3834,8 +3834,8 @@ body:before {
 #heading input[type="button"]:hover,
 #heading button:hover,
 #heading .button:hover {
-    box-shadow: inset 0 0 0 1px #ce1b28;
-    color: #ce1b28 !important;
+    box-shadow: inset 0 0 0 1px #26789b;
+    color: #26789b !important;
 }
 
 #heading input[type="submit"]:hover:active,
@@ -3852,7 +3852,7 @@ body:before {
 #heading button.primary,
 #heading .button.primary {
     box-shadow: none;
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: #ffffff !important;
 }
 
@@ -3897,8 +3897,8 @@ body:before {
 #heading input[type="url"]:focus,
 #heading select:focus,
 #heading textarea:focus {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #heading select {
@@ -3923,15 +3923,15 @@ body:before {
 
 #heading input[type="checkbox"]:checked + label:before,
 #heading input[type="radio"]:checked + label:before {
-    background-color: #ce1b28;
-    border-color: #ce1b28;
+    background-color: #26789b;
+    border-color: #26789b;
     color: #ffffff;
 }
 
 #heading input[type="checkbox"]:focus + label:before,
 #heading input[type="radio"]:focus + label:before {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28;
+    border-color: #26789b;
+    box-shadow: 0 0 0 1px #26789b;
 }
 
 #heading ::-webkit-input-placeholder {
@@ -3989,11 +3989,11 @@ body:before {
 }
 
 #heading .testimonials .content .credit strong {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #heading:before {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #26789b 0%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
@@ -4073,7 +4073,7 @@ body:before {
 }
 
 #menu a {
-    color: #ce1b28;
+    color: #26789b;
 }
 
 #menu strong,
@@ -4118,8 +4118,8 @@ body:before {
 #menu input[type="button"]:hover,
 #menu button:hover,
 #menu .button:hover {
-    box-shadow: inset 0 0 0 1px #ce1b28;
-    color: #ce1b28 !important;
+    box-shadow: inset 0 0 0 1px #26789b;
+    color: #26789b !important;
 }
 
 #menu input[type="submit"]:hover:active,
@@ -4136,7 +4136,7 @@ body:before {
 #menu button.primary,
 #menu .button.primary {
     box-shadow: none;
-    background-color: #ce1b28;
+    background-color: #26789b;
     color: #ffffff !important;
 }
 
