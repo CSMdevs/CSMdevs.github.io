@@ -1,0 +1,16 @@
+.content {
+    height: 100%;
+    
+}
+.Go {
+    position: relative;
+    float: left;
+    left: 30px;
+}
+
+.GitGo {
+    position: relative;
+    float: left;
+    margin-left: 10px;
+    left: 60px;
+}
