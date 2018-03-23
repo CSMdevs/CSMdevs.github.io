@@ -2729,7 +2729,7 @@ ul.icons li .icon:before {
     -webkit-justify-content: center;
     -ms-justify-content: center;
     justify-content: center;
-    background-image: url("../../images/banner.png");
+    background-image: url("../../images/banner.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4248,4 +4248,7 @@ body.is-menu-visible #menu {
     transform: translateX(0);
     box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
     visibility: visible;
+}
+small{
+    font-size: 50%;
 }
