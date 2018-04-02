@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
-@import url(fontawesome-all.css);3
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
+@import url(fontawesome-all.css);
+3 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
 /*
 	Industrious by TEMPLATED
 	templated.co @templatedco
@@ -11,6 +11,14 @@
 
 @-ms-viewport {
     width: device-width;
+}
+
+.Mainshit {
+    margin: 50px;
+}
+
+.Mainshit a {
+    color: #26789b;
 }
 
 body {
@@ -4249,6 +4257,7 @@ body.is-menu-visible #menu {
     box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
     visibility: visible;
 }
-small{
+
+small {
     font-size: 50%;
 }
